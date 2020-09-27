@@ -16,6 +16,9 @@ Chibi ANUBIS
 
 NOTE: Si l'activation ne fonctionne pas, mettez à jour votre base C++, téléchargez depuis :
 https://aka.ms/vs/16/release/vc_redist.x86.exe
-Et
+
+et
+
 https://aka.ms/vs/16/release/vc_redist.x64.exe
+
 Source: https://support.microsoft.com/fr-fr/help/2977003/the-latest-supported-visual-c-downloads
