@@ -1,4 +1,4 @@
-@ECHO off 
+@ECHO off
 TITLE IDM Activator v2.5 - Chibi ANUBIS
 COLOR F0
 MODE CON: COLS=70 LINES=20
