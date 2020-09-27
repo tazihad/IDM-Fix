@@ -14,6 +14,8 @@ NOTE : Si vous répondez à la question par Y = Yes : un script de vérification
 ENJOY !
 Chibi ANUBIS
 
+Extension pour navigateur : https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
+
 NOTE: Si l'activation ne fonctionne pas, mettez à jour votre base C++, téléchargez depuis :
 
 x86 : https://aka.ms/vs/16/release/vc_redist.x86.exe
